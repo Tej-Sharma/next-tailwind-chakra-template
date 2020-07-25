@@ -1,0 +1,11 @@
+.cache
+build
+**/node_modules/**
+**/.next/**
+backend
+.ops
+public
+serviceWorker.js
+tailwind.config.js
+ecosystem.config.js
+postcss.config.js

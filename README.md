@@ -1,5 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Next / TailwindCSS / Chakra UI + Eslint & Prettier template
 
+Template to quickly get you up to speed and dive into making your next web app.
+
+To use:
+
+- Clone the repo
+- Add / remove packages as per your choosing in ``package.json``
+- Configure eslint and prettier configs
 ## Getting Started
 
 First, run the development server:
