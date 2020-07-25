@@ -2,10 +2,7 @@
 build
 **/node_modules/**
 **/.next/**
-backend
-.ops
 public
 tailwind.css
 tailwind.config.js
-ecosystem.config.js
 postcss.config.js
