@@ -15,7 +15,7 @@ export default function Home() {
   const { isOpen, onOpen, onClose } = useDisclosure();
 
   return (
-    <div className="h-scree bg-white">
+    <div className="h-screen bg-white">
       <div className="p-4 bg-white text-black flex justify-center text-center pt-3">
         <div
           className="flex flex-col p-3 w-sm max-w-sm h-32 shadow-md rounded-md hover:shadow-xl hover:rounded-xl transition duration-200 ease-in-out cursor-pointer"
